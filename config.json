@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionfalidate",
+        "uuid": 3578679,
+        "checksum": "hepnk2"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
